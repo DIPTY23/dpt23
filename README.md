@@ -1,7 +1,7 @@
 # INTRODUCTION
-I am Dipty Kumari. I got admission in Netaji Subhash Engineering College in Btech in Information technology, 1st year.
+I am Dipty Kumari. I got admission in Netaji Subhash Engineering College in Btech in Information technology.
 
-## BASIC DETAILS
+## ◀️BASIC DETAILS
 **Name**-*Dipty Kumari*
 
 **Course**-*Btech, Information Technology*
@@ -10,25 +10,25 @@ I am Dipty Kumari. I got admission in Netaji Subhash Engineering College in Btec
  
 **City**-*Gaya*
 
-## COLLEGE DETAILS
+##  ◀️COLLEGE DETAILS
 **College Name**-*Netaji Subhash Engineering College*
 
 ** College City**-*Kolkata,Garia*
 
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
-## HERE IS MY SKILLS
+##  ◀️HERE IS MY SKILLS
 | S.NO.| SKILLS|
 |---|---|
 |1.|Github|
 |2.|Dance|
 |3.|Html|
 
-## COURSES
+##  ◀️COURSES
 1. Cousera
 2. Unacademy
 
-## Language
+##  ◀️Language
 - Hindi
 - English
 
